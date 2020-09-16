@@ -8,4 +8,8 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my bootcamp website! :)
+Welcome to my quantitative bio bootcamp website! :)
+
+Project assessing teeth growth of guinea pigs with doses of orange juice + Vitamin C:
+
+[Teeth growth analysis](teeth.html)
