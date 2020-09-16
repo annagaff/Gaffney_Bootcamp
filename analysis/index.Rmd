@@ -10,6 +10,10 @@ editor_options:
 
 Welcome to my quantitative bio bootcamp website! :)
 
+Next person in the group:
+[Indya Weathers](https://indyaweathers.github.io/IWeathersProject/)
+
+
 Project assessing teeth growth of guinea pigs with doses of orange juice + Vitamin C:
 
 [Teeth growth analysis](teeth.html)
